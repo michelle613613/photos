@@ -1,4 +1,20 @@
-# photos*{
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>賣衣服</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="header"></div>
+    <div class="wrapper clearfix">
+        <div class="main"></div>
+        <div class="sidemenu"></div>
+    </div>
+    <div class="footer"></div>
+</body>
+</html>
+*{
     margin:0px;
     padding: 0px;
     
